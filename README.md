@@ -1,5 +1,5 @@
-### Hi there 👋, I´m Diego Haczek, a fullstack web developer passionate about computer science,
-programming and collaborate with others.
+<h1 allign:center> Hi there 👋, I´m Diego Haczek, a fullstack web developer passionate about computer science,
+programming and collaborate with others. <h1 allign:center>
 
 <!--
 **DiegoHaczek/DiegoHaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
