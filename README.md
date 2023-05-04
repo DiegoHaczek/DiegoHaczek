@@ -1,7 +1,7 @@
-<h2 align:"center"> Hi there 👋, I´m Diego Haczek, a fullstack web developer passionate about computer science,
+<h2 align="center"> Hi there 👋, I´m Diego Haczek, a fullstack web developer passionate about computer science,
 programming and collaborate with others. <h2>
   
- <h3 align="left">Connect with me: https://www.linkedin.com/in/diego-haczek</h3>
+ <h2 align="left">Connect with me: https://www.linkedin.com/in/diego-haczek</h2>
 
 
 <!--
