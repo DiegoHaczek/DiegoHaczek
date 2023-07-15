@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>, I’m Diego Haczek</h1>
 <h3 align="center"><i>A software developer passionate about computer science, programming and collaborate with others.</i></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diegohaczek&label=Profile%20views&color=0e75b6&style=flat" alt="emilianoescobedo" /> </p>
 
 - 🌎 I'm from Argentina. Native Spanish speaker and fluently English speaker (B2).
 - 👩‍💻 I'm on the path to becoming a software engineer, starting from scratch, and my insatiable curiosity has brought me to where I am now. My ultimate goal is to work with others to create top-notch software that makes a real difference in people's lives.
