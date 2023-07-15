@@ -38,5 +38,8 @@
 
 </p>
   <h2 />
-  <h3 align="left">Connect with me: https://www.linkedin.com/in/diego-haczek</h3>
+  <h3 align="center">Connect With Me! </h3>
+<p align="center">
+	<a href="https://www.linkedin.com/in/diego-haczek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego haczek" height="30" width="40" /></a>
+</p>
 
