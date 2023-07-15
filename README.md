@@ -35,9 +35,12 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
 </p>
-  <h2 />
+<h2 />
+<h2 />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoHaczek&theme=dracula&hide_border=true&show_icons=true)<br>
+
   <h3 align="center">Connect With Me! </h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/diego-haczek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego haczek" height="30" width="40" /></a>
