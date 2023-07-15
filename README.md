@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>, I’m Diego Haczek</h1>
+<h1 align="center"> Hi there 👋, I’m Diego Haczek</h1>
 <h3 align="center"><i>A software developer passionate about computer science, programming and collaborate with others.</i></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diegohaczek&label=Profile%20views&color=0e75b6&style=flat" alt="emilianoescobedo" /> </p>
 
