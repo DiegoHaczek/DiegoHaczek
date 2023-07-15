@@ -1,8 +1,13 @@
-<h2 align="center"> Hi there 👋, I´m Diego Haczek, a fullstack web developer passionate about computer science,
-programming and collaborate with others. <h2>
-  
+<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>, I’m Diego Haczek</h1>
+<h3 align="center"><i>A software developer passionate about computer science, programming and collaborate with others.</i></h3>
 
-  
+- 🌎 I'm from Argentina. Native Spanish speaker and fluently English speaker (B2).
+- 👩‍💻 I'm on the path to becoming a software engineer, starting from scratch, and my insatiable curiosity has brought me to where I am now. My ultimate goal is to work with others to create top-notch software that makes a real difference in people's lives.
+- 🌱 I’m currently learning <strong>backend technologies and design patterns.</strong>
+- 📄 If you'd like to find out more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/diego-haczek).
+- 📫 Or you can reach me at **diegohaczek1996@hotmail.com**
+
+<h2 />
 
 <h3 align="left">Backend:</h3>
 <p align="left">
